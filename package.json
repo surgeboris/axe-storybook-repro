@@ -12,6 +12,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@chanzuckerberg/axe-storybook-testing": "^8.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
